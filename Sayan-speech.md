@@ -46,7 +46,7 @@ Firtsly, Whole marketing process can be divided into 3 sub-process:
 
 The traditional automobile marketing focuses on the mid-term sales, neglecting the early publicity and developing
 the target customers. <br/> 
-Which causes in extensive advertising, low accuracy, increased cost and finally unable to improve sales. <br/>
+Which causes in extensive advertisement, low accuracy, increased cost and finally unable to improve sales. <br/>
 
 Here big data marketing provides
 - To manage large user database
