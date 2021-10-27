@@ -14,6 +14,7 @@ With the rapid development of the Internet, the application of big data is more 
 - Date Added to IEEE Xplore: 25 May 2021
 
 ## Participants in PPT
+- [Go To Canva](https://www.canva.com/design/DAEtSIH4Now/fRuRvtrHGtMrgBobZUUpNw/edit?utm_content=DAEtSIH4Now&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 | Name | Roll No (KIIT-DU) | Topics |
 | ----- | ----- | ----- |
