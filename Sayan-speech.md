@@ -52,14 +52,13 @@ Here big data marketing provides
 - To manage large user database
 - Accurate product information Push
 - Having insight into consumer demand
-- Finding hotspots
 - Providing services to improve user experience
 
 Which improves sales as well as overall performance <br/>
 
 > Next Slide
 
-Information about the research paper <br/>
+Here, Information about the research paper what we have chosen <br/>
 
 > Next Slide
 
