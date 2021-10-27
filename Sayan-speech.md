@@ -27,8 +27,8 @@ It deals with
 ## Accurate push based on big data application
 It tells
 - To realize the needs of consumers and exploreing different consumer groups
-- Including relevance recommendation and personalized recommendation
-- Then pushes effective production information to the market having target customers
+- Including relevant recommendation and personalized recommendation
+- Then pushes effective product information to the market having target customers
 
 ## Fine management for big data analysis
 It says
@@ -55,7 +55,7 @@ Here big data marketing provides
 - Finding hotspots
 - Providing services to improve user experience
 
-which improves sales as well as overall performance <br/>
+Which improves sales as well as overall performance <br/>
 
 > Next Slide
 
