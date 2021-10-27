@@ -1,76 +1,66 @@
 # Innovation of automobile marketing mode based on Big Data Marketing
-Good Evening all,
-So, we have discussed the difference and challenges associated with traditional marketing.
-Then 
-What are the Innovation, we can have based on Big Data Technology?
+Good evening all, <br/>
+So, as of now, we have discussed the difference and challenges associated with traditional marketing. <br/>
+Then <br/>
+What are the Innovation, we can have based on Big Data Technology? <br/>
 
-Big data marketing is to quickly reflects all kinds of data and information, and transfer the effective 
-product information to right customers through effective carriers at the right time and in a reasonable way. 
-Enterprises need to change the traditional marketing mode into a precision marketing mode.
-The concept of precision marketing was proposed by Philip Kotler,an American marketing author, in 2005.
-He believed that enterprises need to develop marketing plans based on both results and actions. 
+> Next Slide
+
+Here comes the concept of precision marketing. <br/>
+The concept of precision marketing was proposed by Philip Kotler, an American marketing author, in 2005. <br/>
+He believed that enterprises need to develop marketing plans based on both results and actions. <br/> 
+Enterprises need to change the traditional marketing mode into a precision marketing mode. <br/>
+As big data marketing reflects all kinds of data and information, and transfer the effective product information
+to right customers through effective carriers at the right time and in a reasonable way.
 
 It has three aspects:
-- Precise positioning based on big data analysis
-- Accurate push based on big data mining
-- Fine management based on big data application
+- Precise positioning based on big data mining
+- Accurate push based on big data application
+- Fine management for big data analysis
 
-## Precise positioning based on big data analysis
-The application of big data technology promotes the deep mining of high-value data in massive
-big data information. In order to enhance the competitiveness of automobile enterprises and occupy
-the market competitive advantage, it is very important to mine and obtain the data information of 
-consumers and competitors. Based on the development of automotive electronic technology,
-sensors and chips are widely used in the production and manufacturing of automobiles. 
-Enterprises can use sensors and chips to collect and sort out the relevant data, and analyze the 
-performance of automobiles based on these data, and comprehensively grasp the behavior and 
-habits of consumers, and then in the follow-up process of automobile research and development,
-the basis for Consumers like to improve and innovate automobile R & D, so as to achieve the 
-precise positioning of the developed products, and effectively enhance the competitive advantage of 
-enterprises while meeting the needs of customers.
+## Precise positioning based on big data mining
+It deals with
+- Deep mining of high-value data from massive infomation of consumers and competitior
+- Use it to improve and innovate research and development of the products
+- To effectively enhance the competitive advantages
 
-## Accurate push based on big data mining
-If automobile enterprises want to realize the accurate dissemination of information, 
-the key premise is to find the audience target. Based on this, in the specific precision 
-marketing process, automobile enterprises can analyze and sort out the information 
-such as consumers' interests and hobbies, brand concerns, search content, regional attributes, 
-consumption ability, social habits, etc., so as to realize the mining of consumer consumption 
-rules, and then implement precise push to explore the corresponding consumer groups. 
-Precision push includes relevance recommendation and personalized recommendation.
-Relevance recommendation is based on the horizontal latitude and vertical dimension of the 
-automobile website. Each user sees the same push content and ranking order. It is pushed 
-according to the number of hits, industry hot spots, comments and collections. The personalized 
-recommendation method, each netizen sees the content, the sorting way is not the same, 
-the recommendation principle is according to the user's portrait tag matching recommendation.
+## Accurate push based on big data application
+It tells
+- To realize the needs of consumers and exploreing different consumer groups
+- Including relevance recommendation and personalized recommendation
+- Then pushes effective production information to the market having target customers
 
-## Fine management based on big data application
-Based on the application ofbig data technology, automobile enterprises can improve the efficiency
-of data collection and processing customer information, vehicle information, procurement information,
-transaction information, production information, etc. Based on this, automobile enterprises can use 
-big data technology to construct big data platform, so as to provide basis and suggestions for relevant
-decision-making of automobile enterprises. Therefore, in the specific process of precision marketing,
-the top management of enterprises should focus on the integration of data and the construction 
-of big data platform. In addition, it is necessary to build professional data analysis team and mining 
-team according to the actual situation, so as to provide support for big data analysis and ensure the 
-smooth development of its precision marketing.
+## Fine management for big data analysis
+It says
+- Management should focus on the integration of data and big data platforms
+- Management should have professional data analysis and mining team
+
+> Next Slide
 
 ## Conclusion
-For the automobile industry, the whole marketing process can be divided into three parts: 
-1) Early publicity: It includes the early publicity mainly brand promotion and customer development
-2) Mid-term sales: It covers a series of service processes after customers arrive at the sales place, consultation demand, product introduction, conversation with customers, etc
-3) After-sales service: It is the tracking service after mid-term
+So what we can conclude? <br/> 
+Firtsly, Whole marketing process can be divided into 3 sub-process: 
+1) Early publicity: Includes brand promotion and customer development
+2) Mid-term sales: Deals with customers at the sales-place, conversation with customers towards a successful sale
+3) After-sales service: Tracking service after mid-term sales
 
-The traditional automobile marketing focuses on the mid-term sales itself, mostly to complete the sales and 
-achieve the performance after the customers enters, neglecting the early publicity and developing the target customers, 
-which causes in extensive advertising, low accuracy, increased cost and finally unable to improve sales.
+The traditional automobile marketing focuses on the mid-term sales, neglecting the early publicity and developing
+the target customers. <br/> 
+Which causes in extensive advertising, low accuracy, increased cost and finally unable to improve sales. <br/>
 
-With the continuous development of big data technology, big data marketing supports automobile enterprises
-- To building user database
-- Accurate product information push
+Here big data marketing provides
+- To manage large user database
+- Accurate product information
 - Having insight into consumer demand
-- Finding consumption hotspots
+- Finding hotspots
 - Providing services to improve user experience
-- To improve sales as well as overall performance
 
-Information about the research paper.
+which improves sales as well as overall performance <br/>
 
-Thank you all.
+> Next Slide
+
+Information about the research paper <br/>
+
+> Next Slide
+
+Thank you all
