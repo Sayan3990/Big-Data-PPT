@@ -1,6 +1,6 @@
 # Innovation of automobile marketing mode based on Big Data Marketing
 Good evening all, <br/>
-Myself Sayan Bhattacharyya <br/>
+Myself Sayan <br/>
 So, as of now, we have discussed the difference and challenges associated with traditional marketing. <br/>
 Then <br/>
 What are the Innovation, we can have based on Big Data Technology? <br/>
