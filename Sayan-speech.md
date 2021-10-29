@@ -3,7 +3,7 @@ Good evening all, <br/>
 Myself Sayan <br/>
 So, as of now, we have discussed the difference and challenges associated with traditional marketing. <br/>
 Then <br/>
-What are the Innovation, we can have based on Big Data Technology? <br/>
+How can we innovate marketing strategies based on Big Data Technology? <br/>
 
 > Next Slide
 
@@ -53,14 +53,21 @@ Here big data marketing provides
 - To manage large user database
 - Accurate product information Push
 - Having insight into consumer demand
+- Finding consumer hotspots
 - Providing services to improve user experience
 
 Which improves sales as well as overall performance <br/>
 
 > Next Slide
 
-Here, Information about the research paper what we have chosen <br/>
+Research on Innovation of Automobile Marketing Mode Based on Big Data Marketing, this is the research paper, we have chosen. Link, DOI, other information is given. <br/>
 
 > Next Slide
 
-Thank you all
+Thank you all. <br/>
+
+> Next Slide
+
+We are group 1, group information is provided. </br>
+
+> End of PPT
