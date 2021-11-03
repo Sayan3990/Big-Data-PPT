@@ -71,3 +71,5 @@ Thank you all. <br/>
 We are group 1, group information is provided. </br>
 
 > End of PPT
+
+It is telling that how can we apply ZBig data in Merketing.
