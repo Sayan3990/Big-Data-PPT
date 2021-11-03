@@ -72,4 +72,3 @@ We are group 1, group information is provided. </br>
 
 > End of PPT
 
-It is telling how can we apply Big Data Technology in Automobile Merketing instead of Traditional Marketing.
