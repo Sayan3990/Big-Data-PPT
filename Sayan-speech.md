@@ -1,11 +1,4 @@
 # Innovation of automobile marketing mode based on Big Data Marketing
-Good Morning all, <br/>
-Myself Sayan <br/>
-So, as of now, we have discussed the difference and challenges associated with traditional marketing. <br/>
-Then <br/>
-How can we innovate marketing strategies based on Big Data Technology? <br/>
-
-> Next Slide
 
 Here comes the concept of precision marketing. <br/>
 The concept of precision marketing was proposed by Philip Kotler, an American marketing author, in 2005. <br/>
@@ -36,8 +29,6 @@ It says
 - Management should focus on the integration of data and big data platforms
 - Management should have professional data analysis and mining team
 
-> Next Slide
-
 ## Conclusion
 So what we can conclude? <br/> 
 Firtsly, Whole marketing process can be divided into 3 sub-process: 
@@ -56,19 +47,4 @@ Here big data marketing provides
 - Finding consumer hotspots
 - Providing services to improve user experience
 
-Which improves sales as well as overall performance <br/>
-
-> Next Slide
-
-Research on Innovation of Automobile Marketing Mode Based on Big Data Marketing, this is the research paper, we have chosen. Link, DOI, other information is given. <br/>
-
-> Next Slide
-
-Thank you all. <br/>
-
-> Next Slide
-
-We are group 1, group information is provided. </br>
-
-> End of PPT
-
+Which improves sales as well as overall performance. <br/>
