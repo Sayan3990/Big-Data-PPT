@@ -2,7 +2,8 @@
 ## Research on Innovation of Automobile Marketing Mode Based on Big Data Marketing
 
 ## Abstract:
-With the rapid development of the Internet, the application of big data is more and more extensive. Compared with traditional marketing, big data marketing has significant advantages in market information acquisition, data processing and analysis, and data application. For the automotive industry, the traditional marketing mode is facing severe challenges due to the development of big data technology. In view of this form, a new marketing mode based on big data marketing, which is called precision marketing, came into being. The new automobile precision marketing mode based on big data can be implemented from the following aspects: precise positioning based on big data analysis, accurate push based on big data mining, and fine management based on big data application.
+With the rapid development of the Internet, the application of big data is more and more extensive. Compared with traditional marketing, big data marketing has significant advantages in market information acquisition, data processing and analysis, and data application. For the automotive industry, the traditional marketing mode is facing severe challenges due to the development of big data technology. <br/>
+In view of this form, a new marketing mode based on big data marketing, which is called precision marketing, came into being. The new automobile precision marketing mode based on big data can be implemented from the following aspects: precise positioning based on big data analysis, accurate push based on big data mining, and fine management based on big data application.
 
 ## Details
 - Author: [Kai Xiong](https://ieeexplore.ieee.org/author/37088436182)
