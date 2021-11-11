@@ -1,5 +1,5 @@
 # Big Data PPT
-## Research on Innovation of Automobile Marketing Mode Based on Big Data Marketing
+## Research on Innovation of Automobile Marketing Based on Big Data Marketing
 
 ## Abstract:
 With the rapid development of the Internet, the application of big data is more and more extensive. Compared with traditional marketing, big data marketing has significant advantages in market information acquisition, data processing and analysis, and data application. For the automotive industry, the traditional marketing mode is facing severe challenges due to the development of big data technology. <br/>
